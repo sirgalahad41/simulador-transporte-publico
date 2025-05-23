@@ -23,7 +23,7 @@ Este proyecto fue desarrollado como parte del curso de **Estructura de Datos Apl
 1. Clonar el repositorio:
 ```bash
 git clone https://github.com/sirgalahad41/simulador-transporte-publico
-cd simulador-transporte-publico
+cd transporte 
 
 
 
