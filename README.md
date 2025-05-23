@@ -3,7 +3,7 @@
 ## Descripción del Proyecto
 Este proyecto consiste en la simulación de una red de transporte público en una ciudad pequeña utilizando **Python**. Se construyó un grafo ponderado para representar 20 nodos conectados por rutas con tiempos específicos de recorrido. El objetivo es encontrar rutas óptimas entre dos puntos, calcular tiempos de llegada y adaptarse a cambios en condiciones del tráfico como trancones, semáforos o accidentes.
 
-Este proyecto fue desarrollado como parte del curso de **Estructura de Datos Aplicadas**.
+Este proyecto fue desarrollado como parte del curso de **Estructura de Datos Aplicados**.
 
 ### Lenguaje utilizado:
 - Python 3.x  
@@ -22,7 +22,7 @@ Este proyecto fue desarrollado como parte del curso de **Estructura de Datos Apl
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/TU_USUARIO/simulador-transporte-publico.git
+git clone https://github.com/sirgalahad41/simulador-transporte-publico
 cd simulador-transporte-publico
 
 
